@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 @RestController
 public class Board {
-    @RequestMapping("api/board")
+    @RequestMapping("spring")
     public HashMap<String, Object> return_json() {
         HashMap<String, Object> map = new HashMap<>();
         map.put("id labore ex et quam laborum", "Eliseo@gardner.biz");
