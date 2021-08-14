@@ -12,7 +12,7 @@ public class Board {
         HashMap<String, Object> map = new HashMap<>();
         map.put("id labore ex et quam laborum", "Eliseo@gardner.biz");
         map.put("quo vero reiciendis velit similique earum", "Jayne_Kuhic@sydney.com");
-        map.put("odio adipisci rerum aut animi", "Nikita@garfield.biz");
+        map.put("odio adipisci rerum aut animi", "Nikita@g!arfield.biz");
         return map;
     }
 }
